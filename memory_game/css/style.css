@@ -48,3 +48,7 @@ p {
 	line-height: 26px;
 	font-size: 18px;
 }
+
+img {
+	margin: 40px 8px 0 8px;
+}
